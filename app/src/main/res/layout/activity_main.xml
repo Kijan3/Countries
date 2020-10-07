@@ -13,7 +13,7 @@
             android:layout_height="match_parent">
 
         <android.support.v7.widget.RecyclerView
-                android:id="@+id/coutries_list"
+                android:id="@+id/countries_list"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
                 android:layout_marginBottom="8dp"
